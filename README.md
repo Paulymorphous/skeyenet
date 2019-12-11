@@ -10,7 +10,7 @@ Read more about this project here.
 1. Dataset.
 2. Manipulating the data.
 3. About the model.
-4. Training the model.
+
 
 ## 1. Dataset
 
@@ -28,7 +28,9 @@ The pre-processing steps involved:
 ## 3. About the model.
 
 To solve this problem, I used an Unet, it is a fully convolutional network, with 3 cross-connections. Adam optimiser with a learning rate of 0.00001 was used, along with dice loss (because of the unbalanced nature of the dataset.) 
-The model trained for 33 epochs before the callback killed the training process.
+The model trained for 61 epochs before earlstopper kicked in and killed the training process. A validation dice loss of 0.7548 was achieved.
+
+The model can be found in Models/road_mapper_final.h5.
 
 
 

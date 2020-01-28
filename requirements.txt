@@ -1,0 +1,8 @@
+tensorflow==1.15
+keras==2.2.5
+skimage==0.16.2
+opencv-python==4.1.2
+h5py==2.8.0
+tqdm
+pandas==0.25.3
+numpy==1.17.5

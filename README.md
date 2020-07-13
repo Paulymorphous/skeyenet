@@ -1,4 +1,5 @@
-# SKEYENET - Deep Learning for Road and Building Segmentation in satellite imagery.
+# SKEYENET 
+## Deep Learning for Road and Building Segmentation in satellite imagery.
 
 Semantic segmentation is the process of classifying each pixel of an image into distinct classes using deep learning. This aids in identifying regions in an image where certain objects reside. 
 

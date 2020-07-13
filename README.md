@@ -1,5 +1,8 @@
-# Skeyenet - Read Our Planet
+[<img align="right" src="https://static.wixstatic.com/media/7b3f92_1e0830fdd08443349335d2bdb588e09d~mv2.png/v1/fill/w_148,h_148,al_c,q_85,usm_0.66_1.00_0.01/logo_black.webp">](https://www.livetheaiexperience.com/)
+
+# Skeyenet - Read Our Planet Like a Book
 ### Deep Learning for Road and Building Segmentation in satellite imagery.
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
@@ -7,7 +10,6 @@
 [![Website cv.lbesson.qc.to](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)](https://www.livetheaiexperience.com/)
 [![GitHub stars](https://img.shields.io/github/stars/Paulymorphous/skeyenet)](https://github.com/Paulymorphous/skeyenet/)
 ![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)
-
 
 Semantic segmentation is the process of classifying each pixel of an image into distinct classes using deep learning. This aids in identifying regions in an image where certain objects reside. 
 

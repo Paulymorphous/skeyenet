@@ -1,5 +1,5 @@
-# skeyenet
-Deep Learning for Road and Building Segmentation in satellite imagery.
+# Skeyenet - Read Our Planet
+### Deep Learning for Road and Building Segmentation in satellite imagery.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)

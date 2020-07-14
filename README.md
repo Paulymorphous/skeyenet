@@ -9,6 +9,7 @@
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Paulymorphous/skeyenet/blob/master/LICENSE)
 [![Website cv.lbesson.qc.to](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)](https://www.livetheaiexperience.com/)
 [![GitHub stars](https://img.shields.io/github/stars/Paulymorphous/skeyenet)](https://github.com/Paulymorphous/skeyenet/)
+[![Github Fork](https://img.shields.io/github/forks/Paulymorphous/skeyenet)](https://github.com/Paulymorphous/skeyenet/)
 ![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)
 
 Semantic segmentation is the process of classifying each pixel of an image into distinct classes using deep learning. This aids in identifying regions in an image where certain objects reside. 

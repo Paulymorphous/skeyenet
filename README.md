@@ -6,7 +6,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Paulymorphous/skeyenet/blob/master/LICENSE)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
-![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Paulymorphous/skeyenet/blob/master/LICENSE)
 [![Website cv.lbesson.qc.to](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)](https://www.livetheaiexperience.com/)
 [![GitHub stars](https://img.shields.io/github/stars/Paulymorphous/skeyenet)](https://github.com/Paulymorphous/skeyenet/)
 ![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)

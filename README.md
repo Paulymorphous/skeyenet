@@ -12,6 +12,8 @@
 [![Github Fork](https://img.shields.io/github/forks/Paulymorphous/skeyenet)](https://github.com/Paulymorphous/skeyenet/)
 ![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)
 
+## Please NOTE: I am upgrading this repo, this process may take a couple of weeks. The update will fix most of the issues. Thank you for your patience.
+
 Semantic segmentation is the process of classifying each pixel of an image into distinct classes using deep learning. This aids in identifying regions in an image where certain objects reside. 
 
 This aim of this project is to identify and segment roads in aerial imagery. Detecting roads can be an important factor in predicting further development of cities, and this concept plays a major role in GeoArchitect (A project which I started). Segmentation of roads is important to map-based applications and is used for finding distances or shortest routes between two places.

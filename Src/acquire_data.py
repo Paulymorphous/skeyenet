@@ -22,7 +22,6 @@ def download_images(link_file_images, output_directory, image_type):
 	>link_file_images (str): path to the file with images.
 	>output_directory (str): path to target directory.
 	>image_type (str): Whether the images are target masks or satellite images.
-
 	"""
 
 	print("\nDownloading", image_type)
@@ -41,7 +40,7 @@ def download_images(link_file_images, output_directory, image_type):
 		counter += 1
 	
 	print("{} images downloaded to {}\n".format(counter, output_directory+image_type))
-
+	
 
 if __name__ == '__main__':
 	

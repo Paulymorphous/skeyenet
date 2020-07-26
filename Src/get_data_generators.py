@@ -11,12 +11,15 @@ from keras.preprocessing.image import ImageDataGenerator
 
 def GetDataGenerators(train_images_path=None, train_targets_path=None, test_images_path=None, test_targets_path=None, batch_size = 64, seed=42):
 	"""
-	Builds and returns ImageDataGenerators based on the paths that are sepcified. Please note:
+	Builds and returns ImageDataGenerators based on the paths that are sepcified. 
+    
+    Please note:
 	> Since this is not a multi-class classification problem and ImageDataGenerators require atleast one folder with images in it, we provide the path to the parent directory of the folder containting the images.
 	> If you want only one type of data generator, then you need to provide the path only for that dataset. See Example for clarification.
 	> A Validation generator is also returned with the Train generator.
 	> You can add more variations to the image by adding more number of augmnetation methods to the Generator.
-	  Read more about the prerocessing methods here: https://keras.io/api/preprocessing/image/
+	
+    Read more about the prerocessing methods here: https://keras.io/api/preprocessing/image/
 
 	Parameters
    	----------
@@ -38,7 +41,6 @@ def GetDataGenerators(train_images_path=None, train_targets_path=None, test_imag
 		  								   test_targets_path= <Path to test Maskss>,
 										   batch_size = 128
 										   )							   
-
 	"""
 
     generators = []

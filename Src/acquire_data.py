@@ -4,7 +4,7 @@ Filename: acquire_data.py
 Function:  Downloads the Massachusetts Roads Dataset or the Massachusetts Buildings Dataset. By changing "link_file" to point at a custom list of links, you can download any other dataset too.
 
 Author: Jerin Paul (https://github.com/Paulymorphous)
-website: https://www.livetheaiexperience.com/
+Website: https://www.livetheaiexperience.com/
 """
 
 import urllib.request
@@ -40,7 +40,7 @@ def download_images(link_file_images, output_directory, image_type):
 		counter += 1
 	
 	print("{} images downloaded to {}\n".format(counter, output_directory+image_type))
-	
+
 
 if __name__ == '__main__':
 	

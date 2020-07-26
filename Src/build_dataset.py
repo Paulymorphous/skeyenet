@@ -4,7 +4,7 @@ Filename: build_dataset.py
 Function: Crops the images into small 256x256 images and divides the dataset into training and testing set.
 
 Author: Jerin Paul (https://github.com/Paulymorphous)
-website: https://www.livetheaiexperience.com/
+Website: https://www.livetheaiexperience.com/
 """
 
 import numpy as np

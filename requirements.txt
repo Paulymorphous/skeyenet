@@ -5,4 +5,4 @@ opencv-python==4.1.2
 h5py==2.8.0
 tqdm
 pandas==0.25.3
-numpy==1.17.5
+numpy==1.22.0

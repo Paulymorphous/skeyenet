@@ -45,8 +45,8 @@ def download_images(link_file_images, output_directory, image_type):
 if __name__ == '__main__':
 	
 	dataset_name = "MassachusettsRoads"
-	link_file_images = "../Data/_Links/{}}/Images.txt".format(dataset_name)
-	link_file_targets = "../Data/_Links/{}}/Targets.txt".format(dataset_name)
+	link_file_images = "../Data/_Links/{}/Images.txt".format(dataset_name)
+	link_file_targets = "../Data/_Links/{}/Targets.txt".format(dataset_name)
 	output_directory = "../Data/{}/".format(dataset_name)
 
 	if not os.path.exists(output_directory):
